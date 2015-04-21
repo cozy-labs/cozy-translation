@@ -1,0 +1,4 @@
+*.coffee
+*.swp
+locales
+node_modules
