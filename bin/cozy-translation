@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+var fs = require('fs');
+var path = require('path');
+var filePath = path.join(__dirname, '..', 'index.js');
+require(filePath);
